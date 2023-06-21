@@ -29,7 +29,7 @@ When making an HTTP request GET [`http://localhost:5000/users/salary`](http://lo
 ```json
 {
   id: 4,
-  name: "Chris"
+  name: "Chris",
   salary: {
     id: 4
   }
